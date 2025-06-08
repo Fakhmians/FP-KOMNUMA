@@ -181,4 +181,3 @@ Untuk input:
 
 **Output yang dikembalikan:**
 292947.08
-
