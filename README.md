@@ -181,5 +181,4 @@ Untuk input:
 
 **Output yang dikembalikan:**
 292947.08
->>>>>>> 5895c6f (Initial commit from ProgramKomnum)
->>>>>>> 8b3ee9c (Initial commit dari ProgramKomnum)
+
