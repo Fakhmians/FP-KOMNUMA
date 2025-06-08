@@ -1,11 +1,11 @@
 # **Tugas Akhir Kelompok Komputasi Numerik**
 
 # **Kelompok A17**
-## M. Fakhmi A. Y. (5025241027)
-## Agil Lukman H. (5025241037)
-## Jason Kumarkono (5025241105)
-## Indra Wahyu Tirtayasa (5025241108)
-## Nathanael Oliver A. Y. (5025241109)
+1. M. Fakhmi A. Y. (5025241027)
+2. Agil Lukman H. (5025241037)
+3. Jason Kumarkono (5025241105)
+4. Indra Wahyu Tirtayasa (5025241108)
+5. Nathanael Oliver A. Y. (5025241109)
 
 
 # **Penjelasan Kode untuk Penyelesain pada nomor 31**
