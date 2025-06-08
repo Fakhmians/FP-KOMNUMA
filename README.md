@@ -1,7 +1,3 @@
-
-<<<<<<< HEAD
-# FP-Komnum
-=======
 # **Tugas Akhir Kelompok Komputasi Numerik**
 
 # **Kelompok A17**
